@@ -56,8 +56,9 @@ main_page_head = '''
             top: 0;
             background-color: white;
         }
+        
         #movie-title {
-            height: 60px;
+            height: 57px;
         }
     </style>
     <script type="text/javascript" charset="utf-8">

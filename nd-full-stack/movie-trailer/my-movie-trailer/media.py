@@ -1,7 +1,9 @@
 import webbrowser
 
 class Movie():
-
+    '''Generates a movie object storing the movie's title,
+    storyline and links to its poster art and youtube trailer'''
+    
     def __init__(self, movie_title, movie_storyline, poster_image,
                  trailer_youtube):
         self.title = movie_title
